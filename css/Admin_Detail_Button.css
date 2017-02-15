@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+.title{
+	color : #37393A;
+	font-size : 30px;
+}
+.subtitle{
+	color : #37393A;
+	font-size:18px;
+}
+.icon .glyphicon{
+	font-size : 30px;
+}
+.text-size{
+	
+}
+.ph_table{
+	width : 300px;
+}
+
+.education_table{
+	padding : 0 300 0 0;
+}
+
+.back{
+	margin-left : 550px;
+	width : 60px;
+}
+.background-color{
+	<!--background-color: #E8EEF2;-->
+	}
